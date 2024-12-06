@@ -1,7 +1,7 @@
 /*
 Scott Damoo - 230088627 - ec23076@qmul.ac.uk
-Nefertiti Gansallo - 
-Maximo Hardaker - 
+Nefertiti Gansallo - 230324248 - ec23256@qmul.ac.uk
+Maximo Hardaker - 230523552 - ec23339@qmul.ac.uk
 Emmanuel Phillips - 230355585 - ec23279@qmul.ac.uk
 
 Scenario chosen: Eurostar2030
